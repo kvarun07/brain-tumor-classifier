@@ -1,4 +1,5 @@
 # Brain Tumor Classifier
+This repository contains project on Brain Tumor Classification that I made as a part of an online course on Coursera.
 
 ### Task
 Given MRI scans of the brain, the goal is to identify the type of **brain tumor**.
